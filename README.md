@@ -52,4 +52,4 @@ Delta Tables (Gold Layer)
 ```
 ---
 ## PROJECT DEMO
-                                  ![image](https://github.com/user-attachments/assets/f1bc7ca1-920f-4285-97da-f1a92142149e)
+![image](https://github.com/user-attachments/assets/f1bc7ca1-920f-4285-97da-f1a92142149e)
