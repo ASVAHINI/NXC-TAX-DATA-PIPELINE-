@@ -3,7 +3,7 @@
 ## Overview  
 This project shows how to build a complete data pipeline using **Azure** tools to turn raw NYC Taxi data into useful insights. The pipeline follows the **Medallion Architecture** — which means organizing data in three stages: **Bronze (raw)**, **Silver (cleaned)**, and **Gold (final)**.
 
-I use:
+## I Use:
 - **Azure Data Factory** to collect data  
 - **Azure Databricks** with **PySpark** to clean and process the data  
 - **Delta Tables** to store the final results in a reliable and trackable way
@@ -50,5 +50,6 @@ Azure Databricks + PySpark
       ↓
 Delta Tables (Gold Layer)
 ```
-
-![image](https://github.com/user-attachments/assets/f1bc7ca1-920f-4285-97da-f1a92142149e)
+---
+## PROJECT DEMO
+                                  ![image](https://github.com/user-attachments/assets/f1bc7ca1-920f-4285-97da-f1a92142149e)
